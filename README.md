@@ -1,5 +1,5 @@
 # Front-End-Development
-Online charity organization using codeIgniter
+Online charity organization
 
 url : http://pujaredij.uta.cloud/REDIJ_LEANEVENT/
 
